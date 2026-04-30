@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "599952187588",
+    "project_id": "anemia-lens",
+    "storage_bucket": "anemia-lens.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:599952187588:android:b870e9bd901efa7d7fe991",
+        "android_client_info": {
+          "package_name": "com.example.model_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBXdgfPYxG1qHwBFYpuha-2Zfnihliyduo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
