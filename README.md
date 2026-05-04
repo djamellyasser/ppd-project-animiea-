@@ -97,6 +97,21 @@ Contributions are what make the open-source community such an amazing place to l
 4. Push to the Branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
+## 📊 Results / النتائج
+
+*(Include your model evaluation metrics, accuracy graphs, and testing outcomes here. / قم بإضافة مقاييس التقييم، الرسوم البيانية، ونتائج الاختبار هنا)*
+
+## 👥 Development Team / فريق التطوير
+
+**Developed by / من تطوير:**
+- GUERROUDJI DJAMEL EDDIN YSSER
+- GOUSAS MOHAMED HOUCIN
+- ABADI AYMEN
+- SAHRAOUI NABIL
+
+**Under the supervision of / تحت إشراف الأستاذ:**
+- Prof. KHIAT ABDERHAMEN
+
 ---
 <div align="center">
   <i>Developed with ❤️ for Medical AI Advancement.</i>
