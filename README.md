@@ -40,6 +40,19 @@ The architecture encompasses three main tiers:
 └── README.md               # Project documentation
 ```
 
+## 📱 App Screenshots
+
+Here is a glimpse of the mobile application interface:
+
+<div align="center">
+  <img src="IMAGES/6037298231227650163.jpg" height="400">
+  <img src="IMAGES/6037298231227650164.jpg" height="400">
+  <img src="IMAGES/6037298231227650165.jpg" height="400">
+  <img src="IMAGES/6037298231227650166.jpg" height="400">
+  <img src="IMAGES/6037298231227650167.jpg" height="400">
+  <img src="IMAGES/6037298231227650168.jpg" height="400">
+</div>
+
 ## 🧠 Deep Learning Models & Datasets
 
 - **Datasets**: The `dataset anemia/` directory includes specific conjunctiva image cohorts curated from medical centers in **India** and **Italy**, segregated by palpebral features for robust training.
